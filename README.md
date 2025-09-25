@@ -60,29 +60,29 @@ Here is a visual walkthrough of the application's core functionality.
 ### 1. Registration and Login
 Users can register as either a student or a teacher, each with a unique ID. They can then use these credentials to log in.
 
-![Screenshot 1](../Course-Management-System-Java-main/Screenshot/Screenshot%202025-09-25%20215333.png)
+![Screenshot 1](./Screenshot/Screenshot%202025-09-25%20215333.png)
 
 ### 2. Teacher: Adding a New Course
 Once logged in, a teacher can add a new course to the system, specifying details like course name, ID, credit hours, and capacity.
 
-![Screenshot 2](../Course-Management-System-Java-main/Screenshot/Screenshot%202025-09-25%20215744.png)
+![Screenshot 2](./Screenshot/Screenshot%202025-09-25%20215744.png)
 
 ### 3. Student: Enrolling in a Course
 A logged-in student can view all available courses and enroll in the one they choose.
 
-![Screenshot 3](../Course-Management-System-Java-main/Screenshot/Screenshot%202025-09-25%20220132.png)
+![Screenshot 3](./Screenshot/Screenshot%202025-09-25%20220132.png)
 
 ### 4. Teacher: Assigning a Grade
 The teacher can then assign a grade to any student enrolled in their course.
 
-![Screenshot 4](../Course-Management-System-Java-main/Screenshot/Screenshot%202025-09-25%20220232.png)
+![Screenshot 4](./Screenshot/Screenshot%202025-09-25%20220232.png)
 
 ### 5. Student: Viewing Marks
 The student can log back in and check their marks for the courses they are enrolled in.
 
-![Screenshot 5](../Course-Management-System-Java-main/Screenshot/Screenshot%202025-09-25%20220314.png)
+![Screenshot 5](./Screenshot/Screenshot%202025-09-25%20220314.png)
 
 ### 6. Additional Features
 The application also includes features for data persistence and UI customization.
 
-![Screenshot 6](../Course-Management-System-Java-main/Screenshot/Screenshot%202025-09-25%20220426.png)
+![Screenshot 6](./Screenshot/Screenshot%202025-09-25%20220426.png)
